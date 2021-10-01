@@ -1,7 +1,7 @@
 {
 	"name": "lab-site",
 	"version": "1.0.0",
-	"description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+	"description": "Simple site",
 	"main": "index.js",
 	"scripts": {
 		"deploy": "gh-pages -d dist"
